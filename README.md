@@ -1,2 +1,2 @@
 # Non-Linear-Programming
-Codes for Non Linear Programming Optimization Course taught at IIT Kharagpur
+matlab code for non linear programming optimization course taught at IIT Kharagpur
